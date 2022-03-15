@@ -1,4 +1,4 @@
-package assignments;
+package com.assignments;
 
 public class assignment5 {
 

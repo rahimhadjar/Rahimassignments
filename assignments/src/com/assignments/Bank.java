@@ -36,6 +36,22 @@ public class Bank {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
+	//or>
+//Bank obj;
+
+
+//obj=new BankA();
+//obj.getBalance();
+
+//obj=new BankB();
+//obj.getBalance();
+
+//obj=new BankC();
+//obj.getBalance();
+		
+			
+		
+		
 	BankA banka=new BankA();
 
 	BankB bankb=new BankB();

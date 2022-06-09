@@ -10,6 +10,7 @@ public class calculator {
 		Scanner scan=new Scanner(System.in);   // Scanner class object is created
 		//do {
 		
+		
 		System.out.println("========================================");
 		System.out.println("WELCOM TO SWITCH CASE CALCULATOR PROGRAM:");
 		System.out.println("=========================================");

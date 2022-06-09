@@ -35,7 +35,6 @@ public class SumEvenOdd {
       }
       System.out.println();
       System.out.println("the sum of  even numbers is: "+evenSum);
-     
       System.out.println("the sum of odd numbers is: "+oddSum);
       
 	}

@@ -27,7 +27,6 @@ public class ElectricBill {
 		System.out.println("Your total consumption for this month is: "+units+ " units");
 		scan.close();
 	    
-		
 		double billpay=0;
 		
 		if (units>=0 && units<50) {
@@ -43,6 +42,7 @@ public class ElectricBill {
 			}else if(units>=200 && units<400){
 			   billpay=50*1+50*2+100*3+(units-200)*4;
 			
+			   
 		} else if(units>400) {
 			billpay=50*1+50*2+100*3+200*4+(units-400)*5;
 		}  	

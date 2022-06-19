@@ -15,8 +15,7 @@ public class Palindrome {
 				
 				
 			int i=word.length()-1;
-			
-			
+						
 			while (i>=0)
 			{
 						

@@ -12,13 +12,12 @@ public class Palindrome {
 				
 			System.out.println("Enter a word: ");	
 			word=sc.next();
-				
-				
+								
 			int i=word.length()-1;
 						
 			while (i>=0)
 			{
-						
+			
 			revers+=word.charAt(i);
 				
 			i--;

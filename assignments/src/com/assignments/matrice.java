@@ -16,8 +16,7 @@ public class matrice {
 			}
 			System.out.println();
 		}
-		
-		
+				
 		System.out.println("second matrice:");
 		int matrice2[][]={{3,2,1},{7,1,3},{9,4,5}};
 		for (int[] oa : matrice2) {

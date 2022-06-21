@@ -25,8 +25,6 @@ int getBalance () {
 
 
 
-
-
 public class Bank {
 
 	int getBalance (){

@@ -10,6 +10,7 @@ class BankA extends Bank{
 	}
 }
 
+
 class BankB extends Bank{
 	int deposit2=1500;
 	int getBalance () {

@@ -1,5 +1,7 @@
 package com.assignments;
 
+	
+
 
 class BankA extends Bank{
 	int deposit1=1000;
@@ -16,7 +18,7 @@ class BankB extends Bank{
 }
 
 class BankC extends Bank{
-int deposit3=2000;	
+	int deposit3=2000;
 int getBalance () {
 	return deposit3;
 }
@@ -25,7 +27,7 @@ int getBalance () {
 
 
 
-public class Bank {
+ class Bank {
 
 	int getBalance (){
 	return 0;
@@ -66,8 +68,9 @@ public class Bank {
 	System.out.println(bankc.getBalance());
 	
 	}
-		
+			
 }
+
 
 
 

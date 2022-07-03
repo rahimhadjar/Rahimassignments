@@ -3,6 +3,23 @@ package com.assignments;
 import java.util.Scanner;
 
 public class RupeeNotes {
+	
+	Assignment 10:  Java Program to Find Total Notes in a Given Amount
+In India, Currency notes are available in different denominations like 1 rupee note, 2 rupees note, 5 rupees note, 10 rupees note,
+20 rupees note, 50 rupees note, 100 rupees note, 500 rupees note, 2000 rupees note.
+Input and output:
+Enter total amount = 6687
+Number of 2000 notes = 3
+Number of 500 notes = 1
+Number of 100 notes = 1
+Number of 50 notes = 1
+Number of 20 notes = 1
+Number of 10 notes = 1
+Number of 5 notes = 1
+Number of 2 notes = 1
+Number of 1 notes = 0
+	
+	
 
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
